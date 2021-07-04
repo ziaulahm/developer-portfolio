@@ -10,6 +10,7 @@ h1{
 }
 section{
     display: flex;
+    margin-bottom: 150px;
 }
 .half-width{
     width: 50%;
@@ -21,7 +22,8 @@ section{
 h3{
     font-size: 22px;
 }
-.format-size{
+.format-right{
+    padding-bottom: 8px;
     font-size: 17px;
     padding-right:  270px ;
 }
@@ -37,3 +39,14 @@ h3{
     background-image: url(images/top-banner.png);
     background-repeat: no-repeat;
 }
+.dream-big{
+    background-image: url(images/dream-bg.png);
+    background-repeat: no-repeat;
+    background-position: right;
+}
+.format-left{
+    padding-bottom: 8px;
+    font-size: 17px;
+    padding-right: 311px;
+}
+
