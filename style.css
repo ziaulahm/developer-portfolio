@@ -8,7 +8,7 @@ h1{
 .orange-color{
     color: orange;
 }
-section{
+.flexible-container{
     display: flex;
     margin-bottom: 150px;
 }
@@ -49,4 +49,5 @@ h3{
     font-size: 17px;
     padding-right: 311px;
 }
+
 
